@@ -1,8 +1,8 @@
-# Printing book 1 ( work in progress )
+# Printing book *(work in progress)*
 
 ![alt tag](http://www.peppercarrot.com/extras/forum/2016-09-05_desktop-publishing_scribus-step1.jpg)
 
-This repository was created to ease collaborative work on the desktop-publishing of the open-source first book of [Pepper&Carrot](http://wwww.peppercarrot.com) comic.
+This repository was created to ease collaborative work on the desktop-publishing of the open-source books of [Pepper&Carrot](http://wwww.peppercarrot.com) comic.
 
 ## Description
 
@@ -18,8 +18,13 @@ You'll need :
 * Krita 3.0 or better _(I'm using last stable appimage)_.
 
 
-The repository don't contains the comic page themself to keep the repository lightweight.
-You can download the English pack here [http://www.peppercarrot.com/en/static6/sources&page=download](http://www.peppercarrot.com/en/static6/sources&page=download) , and extract the content into the ```pages``` folder.
+To keep the repository lightweight it don't contains the comic page themself.
+You can download your language comic pages here: [http://www.peppercarrot.com/en/static6/sources&page=download](http://www.peppercarrot.com/en/static6/sources&page=download), and extract the content into the ```pages``` folder.
+
+**Then remove lang prefix** (```en_, fr_, it_``` etc.) **from all files names.** In this way scribus files fits all languages.
+
+*To do: a script to rename files*
+
 
 ## License:
 
