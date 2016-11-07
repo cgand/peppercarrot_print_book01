@@ -1,8 +1,11 @@
-# Printing book *(work in progress)*
+# Printing book 6 episodes volume
 
-![alt tag](http://www.peppercarrot.com/extras/forum/2016-09-05_desktop-publishing_scribus-step1.jpg)
+Scibus .sla files contain 6 episodes each of [Pepper&Carrot](http://www.peppercarrot.com) webcomics by David Revoy.
+* Volume 1, ep. 01-06, 49 pp.
+* Volume 2, ep. 07-12, 52 pp.
+* Volume 3, ep. 13-18, 55 pp.
 
-This repository was created to ease collaborative work on the desktop-publishing of the open-source books of [Pepper&Carrot](http://wwww.peppercarrot.com) comic.
+Covers not included.
 
 ## Description
 
@@ -13,13 +16,13 @@ This repository was created to ease collaborative work on the desktop-publishing
 ## Install
 
 You'll need :
-* the official Pepper&Carrot font pack [https://github.com/Deevad/peppercarrot_fonts](https://github.com/Deevad/peppercarrot_fonts)
-* Scribus 1.5.2 or better _(I'm using scribus-1.5.2-linux-x86_64.AppImage)_.
-* Krita 3.0 or better _(I'm using last stable appimage)_.
+* the official Pepper&Carrot **Lavi** font: [https://github.com/Deevad/peppercarrot_fonts](https://github.com/Deevad/peppercarrot_fonts).
+* Scribus 1.5.2 or better.
+* *(Krita 3.0 or better)*.
 
 
-To keep the repository lightweight it don't contains the comic page themself.
-You can download your language comic pages here: [http://www.peppercarrot.com/en/static6/sources&page=download](http://www.peppercarrot.com/en/static6/sources&page=download), and extract the content into the ```pages``` folder.
+To keep the repository lightweight it don't contains the comic Hi-Res pages themself.
+You can download comic pages your in language here: [http://www.peppercarrot.com/en/static6/sources&page=download](http://www.peppercarrot.com/en/static6/sources&page=download), extract the content and put it into the ```pages``` folder.
 
 **Then remove lang prefix** (```en_, fr_, it_``` etc.) **from all files names.** In this way scribus files fits all languages.
 
