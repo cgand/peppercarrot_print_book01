@@ -1,4 +1,4 @@
-# Printing book 6 episodes volume
+# Printing book 6 episodes volumes
 
 Scibus .sla files contain 6 episodes each of [Pepper&Carrot](http://www.peppercarrot.com) webcomics by David Revoy.
 * Volume 1, ep. 01-06, 49 pp.
@@ -21,7 +21,7 @@ You'll need :
 * *(Krita 3.0 or better)*.
 
 
-To keep the repository lightweight it don't contains the comic Hi-Res pages themself.
+To keep the repository lightweight it don't contains the comic **Hi-Res** pages themself.
 You can download comic pages your in language here: [http://www.peppercarrot.com/en/static6/sources&page=download](http://www.peppercarrot.com/en/static6/sources&page=download), extract the content and put it into the ```pages``` folder.
 
 **Then remove lang prefix** (```en_, fr_, it_``` etc.) **from all files names.** In this way scribus files fits all languages.
